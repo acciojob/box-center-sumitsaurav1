@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+div{
+	text-align:center;
+	color:purple;
+	background-color:lightblue;
+	padding:40px;
+	display:inline-block;
+	border:2px solid black;
+	margin-horizontal :auto;
+	
+}
